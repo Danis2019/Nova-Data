@@ -61,6 +61,7 @@ INSERT INTO user_events VALUES
 ```
 
 4. Calculate retention metrics
+
 Retention formula:
 ```
 Retention = (returned_users / users_first_day) * 100%
