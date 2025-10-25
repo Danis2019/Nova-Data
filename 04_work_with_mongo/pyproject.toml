@@ -1,0 +1,9 @@
+[project]
+name = "04-work-with-mongo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pymongo>=4.15.3",
+]
