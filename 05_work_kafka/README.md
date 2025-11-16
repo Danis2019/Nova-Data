@@ -1,6 +1,3 @@
-ПОМЕНЯТЬ ВЕЗДЕ ПОРТ НА 5432!!!!!!!!!!!!!!!!!!!!!!!!
-
-
 ### Step 1. Run containers:
 ```
 docker-compose up -d
