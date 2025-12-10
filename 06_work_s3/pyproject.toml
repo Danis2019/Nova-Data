@@ -1,0 +1,12 @@
+[project]
+name = "week6"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiobotocore>=2.26.0",
+    "pandas>=2.3.3",
+    "python-dotenv>=1.2.1",
+    "watchfiles>=1.1.1",
+]
